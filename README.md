@@ -1,6 +1,6 @@
 # lab05 : Unidad de suma, resta, multiplicación, división y visualización BCD
 
-##EDWIN DAVID GIRALDO DUQUE CODIGO: 39910
+## EDWIN DAVID GIRALDO DUQUE CODIGO: 39910
 
 ## Introducción
 
